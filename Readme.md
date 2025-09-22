@@ -73,7 +73,7 @@ docker-compose logs -f ms-gestion-personas-clientes ms-gestion-cuentas-movimient
 
 ### 🚀 Api pública Postman
 Puedes importar la colección de Postman para probar los servicios de forma interactiva. Aquí tienes el enlace directo:
-[NTTData Banking App](https://www.postman.com/hispasat-team/bank-nttdata/overview)
+[Endpoints Arq Integracion](https://www.postman.com/hispasat-team/arquitectura-integracion-tcs/overview)
 
 
 ### 📌 Servicio de Clientes (`ms-gestion-personas-clientes`)
