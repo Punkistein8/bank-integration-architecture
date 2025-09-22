@@ -21,6 +21,21 @@ Para ejecutar correctamente los servicios, asegúrate de contar con lo siguiente
 
 ---
 
+## Diagramas y arquitectura de Integración C4
+### Documentación del Reto Técnico
+[Reto Técnico - Arquitectura de Integración - ADM9558535.pdf](docs/Reto%20T%C3%A9cnico%20-%20Arquitectura%20de%20Integraci%C3%B3n%20-%20ADM9558535.pdf)
+
+### Diagrama de Contexto
+![img.png](img.png)
+
+### Diagrama de Componentes
+![img_3.png](img_3.png)
+
+### Diagrama de Contenedores
+![img_2.png](img_2.png)
+
+---
+
 ## Puesta en marcha
 
 ### 1. Clona el repositorio
